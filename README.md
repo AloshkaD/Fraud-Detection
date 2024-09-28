@@ -13,6 +13,7 @@ This project is focused on detecting fraudulent transactions using machine learn
 - **Fill Missing Values**: NaN values in numeric columns are filled with the mean, and in non-numeric columns with the mode.
 
 #### Model Training
+- **CNN Classifier**: A CNN model is trained on the preprocessed dataset.
 - **Random Forest Classifier**: A Random Forest model is trained on the preprocessed dataset.
 - **Train/Test Split**: The dataset is split into training and testing sets to evaluate model performance.
 
